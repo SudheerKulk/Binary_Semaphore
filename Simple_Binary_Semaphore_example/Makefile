@@ -1,6 +1,6 @@
 # AVR Makefile
 #
-# Written by Yaswanth Raj R Y (https://github.com/YaswanthRajRY)
+# Written by Sudheer Kulkarni (https://github.com/SudheerKulk)
 
 # Targets:
 #		
