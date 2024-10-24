@@ -1,6 +1,6 @@
 /*
 *   Project name: Binary semaphore example
-*   Author: Yaswanth Raj R Y
+*   Author: Sudheer Kulkarni
 */
 
 #include <avr/io.h>
